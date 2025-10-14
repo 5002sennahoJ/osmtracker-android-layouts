@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+	
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+
+		<row>
+			<button type="page" label="Hydrant unterflur" icon="hydrant_unter_f.png" targetlayout="unterflur"  />
+			<button type="page" label="Hydrant überflur" icon="hydrant_ueber_f.png" targetlayout="ueberflur"  />
+			<button type="tag" label="Saugstelle Teich" />	
+		</row>
+		
+	</layout>
+	
+	<layout name="unterflur">
+	
+		<row>
+			<button type="tag" label="Hydrant u50" icon="hydrant_unter_f.png" />
+			<button type="tag" label="Hydrant u80" icon="hydrant_unter_f.png" />
+			<button type="tag" label="Hydrant u100" icon="hydrant_unter_f.png" />
+		</row>
+		
+		<row>
+			<button type="tag" label="Hydrant u150" icon="hydrant_unter_f.png" />
+			<button type="tag" label="Hydrant u200" icon="hydrant_unter_f.png" />
+			<button type="tag" label="Hydrant u250" icon="hydrant_unter_f.png" />
+		</row>
+		
+		<row>
+			<button type="tag" label="Hydrant u300" icon="hydrant_unter_f.png" />
+			<button type="tag" label="Hydrant u400" icon="hydrant_unter_f.png" />
+			<button type="tag" label="Hydrant u?" icon="hydrant_unter_f.png" />
+		</row>
+		
+	</layout>
+	
+	<layout name="ueberflur">
+
+		<row>
+			<button type="tag" label="Hydrant ü50" icon="hydrant_ueber_f.png" />
+			<button type="tag" label="Hydrant ü80" icon="hydrant_ueber_f.png" />
+			<button type="tag" label="Hydrant ü100" icon="hydrant_ueber_f.png" />
+		</row>
+		
+		<row>
+			<button type="tag" label="Hydrant ü150" icon="hydrant_ueber_f.png" />
+			<button type="tag" label="Hydrant ü200" icon="hydrant_ueber_f.png" />
+			<button type="tag" label="Hydrant ü250" icon="hydrant_ueber_f.png" />
+		</row>
+		
+		<row>
+			<button type="tag" label="Hydrant ü300" icon="hydrant_ueber_f.png" />
+			<button type="tag" label="Hydrant ü400" icon="hydrant_ueber_f.png" />
+			<button type="tag" label="Hydrant ü?" icon="hydrant_ueber_f.png" />
+		</row>
+		
+	</layout>
+</layouts>
