@@ -7,14 +7,14 @@
       <button type="textnote" icon="text_32x32"/>
     </row>
     <row>
-      <button type="tag" label="Hidrante Seco" icon="hidrantes_icons/marker.png"/>
-      <button type="tag" label="Hidrante de Pilar" icon="hidrantes_icons/App-01.png"/>
-      <button type="tag" label="Hidrante de Pared" icon="hidrantes_icons/App-02.png"/>
+      <button type="tag" label="Trockener Hydrant" icon="hidrantes_icons/marker.png"/>
+      <button type="tag" label="Säulenhydrant" icon="hidrantes_icons/App-01.png"/>
+      <button type="tag" label="Wandhydrant" icon="hidrantes_icons/App-02.png"/>
     </row>
     <row>
-      <button type="tag" label="Hidrante Subterráneo" icon="hidrantes_icons/marker.png"/>
-      <button type="tag" label="Hidrante Desconocido" icon="hidrantes_icons/App-04.png"/>
-      <button type="tag" label="Hidrante fuera de servicio" icon="hidrantes_icons/App-10.png"/>
+      <button type="tag" label="Unterirdischer Hydrant" icon="hidrantes_icons/marker.png"/>
+      <button type="tag" label="Unbekannter Hydrant" icon="hidrantes_icons/App-04.png"/>
+      <button type="tag" label="Hydrant außer Betrieb" icon="hidrantes_icons/App-10.png"/>
     </row>
   </layout>
 </layouts>
